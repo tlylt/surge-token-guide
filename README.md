@@ -1,4 +1,4 @@
-**View the guide on a [website](https://tlylt.github.io/bookmarks/) for better experience.**
+**View the guide on a [website](https://surge-token-guide.surge.sh) for better experience.**
 
 <div id="guide">
 
