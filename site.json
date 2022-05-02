@@ -13,7 +13,7 @@
   "pages": [
     {
       "src": "index.md",
-      "title": "Surge Toke Guide"
+      "title": "Surge Token Guide"
     },
     {
       "glob": ["**/index.md", "**/*.md"]
